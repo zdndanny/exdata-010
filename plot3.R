@@ -1,11 +1,11 @@
 # plot3.R 
 # exdata-010 Project 2 Question 3
-source("./proj2.R")
+
 # Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, 
 # which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? 
 # Which have seen increases in emissions from 1999–2008? 
 # Use the ggplot2 plotting system to make a plot answer this question.
-
+source("./proj2.R")
 library("ggplot2")
 
 # Upload a PNG file containing your plot addressing this question.
